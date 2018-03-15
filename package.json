@@ -20,7 +20,8 @@
     "node": ">=6"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "msk.browser.js"
   ],
   "devDependencies": {
     "babel-loader": "^7.1.4",
